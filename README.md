@@ -38,8 +38,7 @@ HOW IT WORKS
   - Formats packet metadata (protocol, IPs, ports) into character streams
   - Renders them as falling columns onto a full-screen wlr-layer-shell
     background surface using Cairo and Pango for text rendering
-  - Uses SHM double-buffering with per-column dirty tracking to minimize
-    compositor recomposition overhead
+
 
 
 DEPENDENCIES
