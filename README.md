@@ -28,6 +28,9 @@ stream blinks as it descends. A small stats bar in the bottom-right shows
 current throughput.
 
 
+![demo](demo.gif)
+
+
 HOW IT WORKS
 ============
 
