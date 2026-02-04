@@ -5,7 +5,7 @@
     |   _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _     |
     |                                                              |
     |        100% VIBECODED. 95% C. CODE UNEXAMINED BY HUMANS.          |
-    |                  YOU HAVE BEEN WARNED!                        |
+    |            HERE BE DRAGONS. YOU HAVE BEEN WARNED!                        |
     |   _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _     |
     |                                                              |
     +--------------------------------------------------------------+
