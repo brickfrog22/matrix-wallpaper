@@ -1,0 +1,13 @@
+# Build artifacts
+*.o
+/matrix-wallpaper
+matrix-packets/*-client-protocol.h
+matrix-packets/*-protocol.c
+
+# Editor
+*.swp
+*~
+.vscode/
+
+# Claude
+.claude/
